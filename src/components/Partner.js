@@ -10,41 +10,45 @@ const Company = () => {
         </Col>
         <Row>
           <Col lg="2" md="3" sm="4" xs="6">
-            <h3 className=" d-flex align-items-center gap-1">
-              <i class="ri-vimeo-line"></i> Vimeo
+            <h3 className="d-flex align-items-center gap-1">
+              <img src="https://example.com/vimeo-icon.png" alt="Vimeo" className="partner-icon" />
+              Vimeo
             </h3>
           </Col>
 
           <Col lg="2" md="3" sm="4" xs="6">
-            <h3 className=" d-flex align-items-center gap-1">
-              <i class="ri-pinterest-line"></i> Pinterest
+            <h3 className="d-flex align-items-center gap-1">
+              <img src="https://example.com/pinterest-icon.png" alt="Pinterest" className="partner-icon" />
+              Pinterest
             </h3>
           </Col>
 
           <Col lg="2" md="3" sm="4" xs="6">
-            <h3 className=" d-flex align-items-center gap-1">
-              <i class="ri-dribbble-line"></i> Dribble
+            <h3 className="d-flex align-items-center gap-1">
+              <img src="https://example.com/dribbble-icon.png" alt="Dribbble" className="partner-icon" />
+              Dribbble
             </h3>
           </Col>
 
           <Col lg="2" md="3" sm="4" xs="6">
-            <h3 className=" d-flex align-items-center gap-1">
-              {" "}
-              <i class="ri-apple-fill"></i> Apple
+            <h3 className="d-flex align-items-center gap-1">
+              <img src="https://example.com/apple-icon.png" alt="Apple" className="partner-icon" />
+              Apple
             </h3>
           </Col>
 
           <Col lg="2" md="3" sm="4" xs="6">
-            <h3 className=" d-flex align-items-center gap-1">
-              {" "}
-              <i class="ri-finder-fill"></i> Finder
+            <h3 className="d-flex align-items-center gap-1">
+              <img src="https://example.com/finder-icon.png" alt="Finder" className="partner-icon" />
+              Finder
             </h3>
           </Col>
 
           <Col lg="2" md="3" sm="4" xs="6">
-            <h2 className=" d-flex align-items-center gap-1">
-              {" "}
-              <i class="ri-google-fill"></i> Google
+            <h2 className="d-flex align-items-center gap-1">
+              <img src="    imageUrl: 'https://source.unsplash.com/400x300/?webinars',
+" alt="Google" className="partner-icon" />
+              Google
             </h2>
           </Col>
         </Row>
